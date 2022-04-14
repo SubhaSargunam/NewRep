@@ -16,10 +16,14 @@ public static void sub() {
 	int b=20;
 	int d=a-b;
 }
-	
+public void mul()
+{
+	int a=10;
+	int b=20;
+	int e=a*b;
 }
 
-
+}
 
 
 
